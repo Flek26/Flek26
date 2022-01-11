@@ -42,7 +42,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [10 Life-Saving JavaScript One-Liners 🔥 CODE LIKE A PRO 2022]()
 
 <!-- YOUTUBE:END -->
 
@@ -53,7 +52,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer]()
 
 <!-- BLOG-POST-LIST:END -->
 
