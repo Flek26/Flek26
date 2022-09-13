@@ -1,4 +1,4 @@
-### Hi there, I'm Luke - aka [FlekDev][website] 👋 
+### Hi there, I'm [FlekDev][website] 👋 
 
 [![Website](https://img.shields.io/website?label=FlekDev.com&style=for-the-badge&url=https%3A%2F%2Fflekdev.com)](https://flekdev.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/flekhq?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fflekhq&screen_name=FlekHQ)
