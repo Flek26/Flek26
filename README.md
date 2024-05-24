@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Web 3.0
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects in the Web 3.0 space
+- 🥅 2024 Goals: Contribute more to Open Source projects in the Web 3.0 space
 - ⚡ Fun fact: I love to make 3D NFT art
 
 ### Connect with me:
